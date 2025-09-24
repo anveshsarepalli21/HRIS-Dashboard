@@ -1,0 +1,7 @@
+app_id,job_id,candidate_id,stage,stage_date,outcome
+A1,J101,C001,Applied,2025-01-06,Advanced
+A2,J101,C002,Screen,2025-01-10,Rejected
+A3,J101,C003,Interview,2025-01-18,Advanced
+A4,J101,C001,Offer,2025-02-01,Hired
+A5,J103,C004,Applied,2025-02-02,Advanced
+A6,J103,C004,Interview,2025-02-20,Hired

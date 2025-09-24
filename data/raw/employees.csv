@@ -1,0 +1,6 @@
+emp_id,first_name,last_name,dept,role,start_date,status
+E001,Asha,R,HR,Recruiter,2024-01-15,Active
+E002,Raj,Menon,IT,Data Engineer,2023-10-01,Active
+E003,Maya,K,Finance,Analyst,2023-08-20,Active
+E004,Ian,Lee,HR,Coordinator,2024-04-10,Active
+E005,Nina,Singh,IT,Analyst,2023-12-01,Terminated

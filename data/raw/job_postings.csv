@@ -1,0 +1,4 @@
+job_id,role,dept,opened_date,closed_date,status
+J101,Recruiter,HR,2025-01-05,2025-02-10,Closed
+J102,Data Engineer,IT,2025-01-20,,Open
+J103,HR Coordinator,HR,2025-02-01,2025-03-01,Closed
